@@ -20,7 +20,7 @@ This website serves as a platform for me to showcase my work, share my experienc
 
 - **Leadership:** Find out how I advocate for diversity and inclusion in tech through my leadership positions. 
 
-- **Contact:** Find out how ways to get in touch with me, whether through social media or email.
+- **Contact:** Learn how to get in touch with me, whether through social media or email.
 
 ## Technologies Used
 
